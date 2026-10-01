@@ -1,0 +1,6 @@
+eurlex
+beautifulsoup4
+lxml
+pandas
+openpyxl
+pdfplumber
